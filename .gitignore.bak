@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+
+
+coba_satu/__pycache__
+coba_satu/Lib
+coba_satu/Scripts
